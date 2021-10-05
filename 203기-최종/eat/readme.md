@@ -6,7 +6,7 @@
 [팀 깃허브](https://github.com/bit-eat/eatingday) | 
 [팀 회의록](https://docs.google.com/spreadsheets/d/1LeM_IagiekV9kY9VN-xtP1_7qThGiwvBIRPWcRB2h9A/edit?usp=sharing)
 
-프로젝트에 대한 종합 정보는 [발표자료PDF](https://github.com/hjbeauty/bit20210719-20210924/blob/main/203%EA%B8%B0-%EC%B5%9C%EC%A2%85/eat/3.%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/%EC%B5%9C%EC%A2%85%20%EB%B0%9C%ED%91%9C.pdf) 에 정리되어있습니다.
+프로젝트에 대한 종합 정보는 [발표자료PDF](https://github.com/hjbeauty/bit20210719-20210924/blob/main/203%EA%B8%B0-%EC%B5%9C%EC%A2%85/eat/3.%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/%EC%B5%9C%EC%A2%85%20%EB%B0%9C%ED%91%9C.pdf) 에 정리되어있습니다.
 
 ### 멤버 
 [![Leader](https://img.shields.io/badge/Leader-%EC%9D%80*%EC%A7%84-green.svg?style=flat)](https://github.com/devLayla)
@@ -26,7 +26,7 @@
 1. 분석자료
     - UI스토리보드 / 시퀀스 다이어그램 / 유스케이스 다이어그램 / 클래스 다이어그램
 2. Source
-   - 프로젝트 ZIP 파일(팀 깃허브에서 코드 확인 가능)
+   -  프로젝트 ZIP파일
 3. 발표자료
    - 프로젝트 발표 PDF파일
 4. 데이터베이스 자료
